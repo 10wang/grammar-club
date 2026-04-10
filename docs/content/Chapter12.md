@@ -154,7 +154,7 @@ the important thing = we're all right
 
 这句话中的名词从句仍应视为用在同位语位置。句中的 that 也可以省略。再看一个例子：
 
-- &nbsp;<Note note="S">You</Note> <Note note="V">'d better take</Note> <Note note="O">care</Note> <Note note="同位语">that nothing goes wrong</Note>. （你最好小心，别出錯。）
+- &nbsp;<Note note="S">You</Note> <Note note="V">'d better take</Note> <Note note="O">care</Note> <Note note="同位语">that nothing goes wrong</Note>. （你最好小心，别出错。）
 
 这个句子的宾语是 care，是 S+V+O 的句型，同样没有位置可以放名词从句，但是可以视为下面两句的结合：
 
@@ -204,7 +204,7 @@ the important thing = we're all right
 
 → (A) <Note note="S">I</Note> <Note note="V">know</Note> <Note note="O">who you are</Note>. (我知道你是谁。)
 
-例 2 中 Who are you? 只要改写为非疑问句的顺序 who you are 即成为名词从句，以疑问词 who 当连接词用，不必再加连接词，直接把这个从句放人例 1 中 the question 的位置，作为 know 的宾语，即成为（A）的复句。再看一个例子：
+例 2 中 Who are you? 只要改写为非疑问句的顺序 who you are 即成为名词从句，以疑问词 who 当连接词用，不必再加连接词，直接把这个从句放入例 1 中 the question 的位置，作为 know 的宾语，即成为（A）的复句。再看一个例子：
 
 1. &nbsp;<Note note="S">The question</Note> is anybody's guess.
 
