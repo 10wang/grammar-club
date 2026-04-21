@@ -132,7 +132,7 @@
 
 如果按照前面的做法，加上 being 来改变 invited 的词类当然也可以：
 
-- I am looking forward to the <Note note="简化名词从句">being invited to the party</Note>.
+- I am looking forward to <Note note="简化名词从句">being invited to the party</Note>.
 
 名词从句简化成 Ving 的形式，如果是被动态时，以 being Ven 的形式就可以表示，并仍以名词的形式保留下来。
 
@@ -194,7 +194,7 @@
 
 然后省去 be 动词，主语的 you 放入宾语位置，主语补语 to go 就成了宾语补语，成为：
 
-- &nbsp;<Note note="S">I</Note> <Note note="V">want</Note> <Note note="O">you</Note> <Note note="O">to go</Note>.
+- &nbsp;<Note note="S">I</Note> <Note note="V">want</Note> <Note note="O">you</Note> <Note note="C">to go</Note>.
 
 在大部分的句型中，不定词原来的主语可放在介系词后的宾语位置以保留下来，例如：
 
